@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Aashi0123
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Aisha Azhar.
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me 
   Gmail: aishaazhar2025@gmail.com
